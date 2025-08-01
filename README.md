@@ -1,1 +1,3 @@
-# Sistema-Banc-rio-Simples
+# Sistema Bancário Simples 
+
+Utilizando python e colab
